@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi 👋 
+I am Hannah. When I was a kid my favorite toy was the sieve. Now I find patterns in data. This is my sandpit for machine learning and deep learning stuff ✨. 
+My background is in psychology, linguistics and neuroscience :brain:, hence, finding structures in minds and brains. 
+
+I love language, reading and writing and I like to play around with AI for Natural Language Generation in German. If you wanna have a look: I have trained a plain Tensorflow/Keras net (Long-Short-Term Recurrent Neural Net) from scratch, which, magically, happens to be able to generate lyrics in the style of German Dadaists, too 😄 And have fine-tuned a pretrained GPT-2 to write paragraphs of novels in the style of my favorite German author 💬
+
+Also you'll find a pretty accurate LSTM-RNN text classifier for obfuscated sentences, and a more straightforward ML project I did recently in collaboration with some great data scientists 👯.  
+
+📫 Do you want to chat or collaborate? :mega: twitter @hannahbohle or info@_insert-my-name_.de.
+
+
 
 <!--
 **hhnnhh/hhnnhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
