@@ -6,7 +6,7 @@ I love language, reading and writing and I like to play around with AI for Natur
 
 Also you'll find a pretty accurate LSTM-RNN text classifier for obfuscated sentences, and a more straightforward ML project I did recently in collaboration with some great data scientists 👯.  
 
-📫 Do you want to chat or collaborate? :mega: twitter @hannahbohle or info@_insert-my-name_.de.
+📫 Do you want to chat or collaborate? :mega: twitter @HannahBohle or info@_insertmyname_.de.
 
 
 
