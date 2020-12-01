@@ -2,9 +2,9 @@
 I am Hannah. When I was a kid my favorite toy was the sieve. Now I find patterns in data. This is my sandpit for machine learning and deep learning stuff ✨. 
 My background is in psychology, linguistics and neuroscience :brain:, hence, finding structures in minds and brains. 
 
-I love language, reading and writing and I like to play around with AI for Natural Language Generation in German. If you wanna have a look: I have trained a plain Tensorflow/Keras net (Long-Short-Term Recurrent Neural Net) from scratch, which, magically, happens to be able to generate lyrics in the style of German Dadaists, too 😄 And have fine-tuned a pretrained GPT-2 to write paragraphs of novels in the style of my favorite German author 💬
+I love language, reading and writing and I like to play around with AI for Natural Language Generation in German. If you wanna have a look: I have trained a plain Tensorflow/Keras net (Long Short-Term Memory Recurrent Neural Net) from scratch, which, magically, happens to be able to generate lyrics in the style of German Dadaists, too 😄 And I have fine-tuned a pretrained GPT-2 to write paragraphs of novels in the style of my favorite German author 💬
 
-Also you'll find a pretty accurate LSTM-RNN text classifier for obfuscated sentences, and a more straightforward ML project I did recently in collaboration with some great data scientists 👯.  
+Also you'll find a pretty accurate LSTM-RNN text classifier for obfuscated sentences. Finally, I present a more straightforward predictive ML classifier trained on open data, which is able to anticipate whether a vehicle is likely going to pass or fail a vehicle emissions test in the future. The last project was a recent collaboration with some great fellow data scientists 👯.  
 
 <<- 📫 Want to chat? Collaborate? Let's talk!
 
