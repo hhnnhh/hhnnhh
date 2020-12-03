@@ -8,8 +8,8 @@ Also you'll find a pretty accurate LSTM-RNN text classifier for obfuscated sente
 
 📫 Want to chat? Collaborate? Let's talk! -->>
 
-Twitter: [@HannahBohle](https://twitter.com/HannahBohle)
-LinkedIn: [hannahbohle](https://linkedin.com/in/hannahbohle)
+- Twitter: [@HannahBohle](https://twitter.com/HannahBohle)
+- LinkedIn: [hannahbohle](https://linkedin.com/in/hannahbohle)
 
 
 
