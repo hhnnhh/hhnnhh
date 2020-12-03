@@ -6,7 +6,10 @@ I love language, reading and writing and I like to play around with AI for Natur
 
 Also you'll find a pretty accurate LSTM-RNN text classifier for obfuscated sentences. Finally, I present a more straightforward predictive ML classifier trained on open data, which is able to anticipate whether a vehicle is likely going to pass or fail a vehicle emissions test in the future. The last project was a recent collaboration with some great fellow data scientists 👯.  
 
-<<- 📫 Want to chat? Collaborate? Let's talk!
+📫 Want to chat? Collaborate? Let's talk! -->>
+
+Twitter: [@HannahBohle](https://twitter.com/HannahBohle)
+LinkedIn: [hannahbohle](https://linkedin.com/in/hannahbohle)
 
 
 
